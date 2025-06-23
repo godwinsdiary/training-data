@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><listPerson xmlns="http://www.tei-c.org/ns/1.0"><person xmlns="http://www.tei-c.org/ns/1.0" xml:id="WAL03" sex="1"><persName xmlns="http://www.tei-c.org/ns/1.0"><roleName xmlns="http://www.tei-c.org/ns/1.0"/><forename xmlns="http://www.tei-c.org/ns/1.0">Adam</forename><surname xmlns="http://www.tei-c.org/ns/1.0">Walker</surname><addName xmlns="http://www.tei-c.org/ns/1.0"/></persName><birth xmlns="http://www.tei-c.org/ns/1.0" notBefore="1730" notAfter="1731"><placeName xmlns="http://www.tei-c.org/ns/1.0"> </placeName></birth><death xmlns="http://www.tei-c.org/ns/1.0" when="1821-02-11"/><occupation xmlns="http://www.tei-c.org/ns/1.0">itinerant lecturer</occupation><occupation xmlns="http://www.tei-c.org/ns/1.0">writer</occupation><note xmlns="http://www.tei-c.org/ns/1.0" type="editorial"><p xmlns="http://www.tei-c.org/ns/1.0">One entry has thus far been coded: 12.3.1800: 'Opie's , w. sir Robt Barclay, Hoare and Walker Eidouranion.'
+
+    This can be confirmed as Adam Walker (1730-1821) - from his <title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>, 'One of the most spectacular exhibits 
+   was his eidouranion, a transparent orrery, which stood the Walker family in good stead for fifty years.'</p>
+    
+    See the entry for <persName xmlns="http://www.tei-c.org/ns/1.0" key="WAL07">Alexander Walker</persName>, who appears very frequently in 1800-1801, and then again in 1824.
+   Adam Waker is coded as only appearing once. While both Adam and Alexander
+    first appear in the course of 1800, Alexander pre-dates Walker Eidouranion (Jan to March), and subsequent A 
+    Walkers are more likely to refer to Alexander than Adam.
+
+    There is at least one more, possibly multiple, uncoded 'Walker' entries, the original Walker in the diary who appears earliest and is noted
+    without initial. He is denoted by the following entries:
+    46 -- walker
+    1790-03-15 1792-05-02 1792-05-05 1794-05-25 1794-06-01 1794-06-15 1794-10-04 1794-11-01 1794-11-23 
+    1794-12-20 1795-01-17 1795-01-31 1795-02-02 1795-02-07 1795-02-14 1795-03-12 1795-05-03 1795-05-24 
+    1795-06-12 1798-05-27 1798-07-29 1800-02-10 1800-06-28 1801-01-15 1801-01-21 1801-05-09 1801-05-20 
+    1801-05-22 1801-06-02 1801-06-14 1801-06-15 1801-06-18 1801-06-28 1802-08-31 1802-11-08 1809-09-23 
+    1809-11-17 1811-12-03 1811-12-18 1816-04-23 1817-11-29 1817-12-01 1829-07-15 1830-02-13 1830-04-18 
+    1830-06-28 
+    1 -- walkers
+    1799-12-24 
+    This Walker is distinct from Adam and Alexander, and from Thomas (WAL05), who is always noted with initial,
+    save for the date of his trial, and was in London too infrequently to figure this prominently in the diary. Possible
+    candidates include 
+    John Walker (1759-1830), vaccinator and writer, who spent time in Paris in 1797: 'In Paris he was acquainted 
+    with Thomas Paine, Thomas Muir, and James Napper Tandy, and translated the manifesto of the 
+    Theophilanthropists, an atheistic society. He embraced a number of radical causes that included opposition 
+    to slavery, to the employment of children as chimney sweeps, and to cruelty to animals.' (<title xmlns="http://www.tei-c.org/ns/1.0">DNB</title>) However, John
+    was out of England 1800-02 and there are many contacts in that period. Also, notes a Walker five days after
+    John's death. This Walker remains unidentified. Some of the entries in 1800-01 might refer
+    to Alexander Walker, given that this peak in entries corresponds to his entry in the diary, but  we 
+    have assumed not.
+
+
+   There are also a number of entries which may be to different Walkers, or to those noted above   
+    1 -- walker, 44
+    1812-06-17 
+    1 -- walker, finsbury square
+    1820-08-09 
+    1 -- walker, kensington
+    1813-07-14 
+    4 -- walker, s b
+    1826-01-30 1826-02-02 1826-02-07 1826-02-12 
+
+  </note><bibl xmlns="http://www.tei-c.org/ns/1.0" type="other"><title xmlns="http://www.tei-c.org/ns/1.0">DNB</title></bibl><ab xmlns="http://www.tei-c.org/ns/1.0" type="appearancesInDiary"><ab xmlns="http://www.tei-c.org/ns/1.0" n="1788"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1789"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1790"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1791"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1792"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1793"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1794"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1795"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1796"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1797"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1798"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1799"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1800"><date xmlns="http://www.tei-c.org/ns/1.0" when="1800-03-12" n="notVenue" type="ah"/></ab><ab xmlns="http://www.tei-c.org/ns/1.0" n="1801"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1802"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1803"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1804"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1805"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1806"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1807"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1808"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1809"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1810"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1811"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1812"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1813"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1814"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1815"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1816"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1817"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1818"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1819"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1820"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1821"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1822"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1823"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1824"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1825"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1826"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1827"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1828"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1829"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1830"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1831"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1832"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1833"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1834"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1835"/><ab xmlns="http://www.tei-c.org/ns/1.0" n="1836"/></ab></person></listPerson>
